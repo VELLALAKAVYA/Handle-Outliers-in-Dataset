@@ -1,0 +1,13 @@
+Explanation of the Visualizations
+Box Plot Visualizations:
+
+Original Data: Shows the original distribution of the data with outliers clearly visible.
+After Removing Outliers: The outlier is removed, and the distribution appears more compact.
+After Capping Outliers: The extreme values are capped, reducing the impact of the outliers while keeping the data.
+After Imputing Outliers: The outlier is replaced with the median, which reduces skewness without removing data points.
+Histogram Visualizations:
+
+Original Data: Shows the distribution of the original data with a visible spike due to the outlier.
+After Removing Outliers: The histogram shows a reduced range, emphasizing the data distribution without the outlier.
+After Capping Outliers: The capped histogram limits the outlier's impact by adjusting it to the upper bound.
+After Imputing Outliers: Shows a distribution where the outlier has been replaced by a central value (median).
